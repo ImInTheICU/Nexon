@@ -21,6 +21,7 @@ If you would like to contribute to Nexon, please get in contact with us.
 ## Bug Reporting
 
 If you encounter any issues or bugs, please open a GitHub issue or post it on the Developer forum.
+
 **Note: Please make sure you know the diffrance of Server/Client before submitting!**
 
 ## License
