@@ -4,9 +4,9 @@ Nexon is a server-sided anti-cheat for Roblox, focused on preventing movement-ba
 
 ## Detections
 ### Movement
-Almost all of are movement based detections are Universal.
+Almost all of are movement based detections are universal & work well aginst any script.
 - Speed | Supported-Detections: (WalkSpeed,CFrame,Tween,ChangeState & More) - This detection is universal
-- Noclip | Supported-Detections: (NoCollideParts,NoCollidePlayerParts,ChangeState & More) - This detection is universal
+- Noclip | Supported-Detections: (NoCollideParts,ChangeState & More) - This detection is universal
 - Teleport | Supported-Detections: (Position,CFrame,Tween,MoveTo & More) - This detection is universal
 - Fly | Supported-Detections: (Position,CFrame,Tween,Glide,Float,Climb) - This detection is very universal.
 
